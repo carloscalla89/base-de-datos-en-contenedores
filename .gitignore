@@ -1,0 +1,3 @@
+# Scripts de despliegue con credenciales
+postgres-mitocodedb-minikube-start.sh
+docker-compose/.env
